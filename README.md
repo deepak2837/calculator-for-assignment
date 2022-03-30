@@ -1,5 +1,5 @@
 # Calculator-Relevel-Assignment-1
-## this is deployed at heroku : link :
+## check out the live version: deployed at heroku https://calculator-for-assignment.herokuapp.com/
 ###### here in this project we are going to make a scientific calculator 
 ###### Here is the basic logic behind each feature. 
 ##### So let's start it. :
