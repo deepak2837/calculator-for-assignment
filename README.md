@@ -230,7 +230,7 @@ input_elements.addeventlistener("click", event => {
 
 
 
-# Step 7
+# Step 6
 ###### there are six  types of buttons :
 1. number 
 2. operator 
@@ -259,7 +259,7 @@ let data = {
 
 ------------
 
-# Step 8
+# Step 7
 
 ###### calculate is the our final function which will calculate the value added in the data 
 ###### we will use eval function which will calculate the string 
@@ -277,7 +277,7 @@ data.opertaion = []
 
 ------------
 
-# Step 9
+# Step 8
 
 ### functionality of some special character :
 
@@ -316,7 +316,7 @@ complications for some speacials operators in math:
 ------------
 
 
-# Step 10
+# Step 9
 
 ###### now we will make a function for the factorial and the power
 ### here is the factorial function :
@@ -340,7 +340,7 @@ console.log("The factorial of " + n + " is " + answer);
 ------------
 
 
-# Step 11
+# Step 10
 ## work in progress
 #### now functionlity of scientific calculator will be added 
 ###### for fixing the issue of factorial fuction 
