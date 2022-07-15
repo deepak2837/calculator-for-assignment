@@ -4,7 +4,7 @@
 
 - 
 -
-- for the building this project have a look on step to step explanation wriiten in instructions.text
+- for building this project, have a look on step to step explanation wriiten in instructions.txt
 
 
 
